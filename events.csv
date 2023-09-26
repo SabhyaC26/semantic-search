@@ -1,0 +1,101 @@
+Id,Name,One Line Description,Location,Time,Avg. Rating,Ticket Price
+1,"The Phantom of the Opera",Experience the iconic musical,Majestic Theatre NYC,September 5 2023 8:00 PM,4.6,$75
+2,New York Knicks vs. Boston Celtics,NBA game at Madison Square Garden,Madison Square Garden NYC,October 12 2023 7:30 PM,4.4,$50
+3,Chicago Bulls vs. Los Angeles Lakers,NBA showdown at United Center,United Center Chicago,November 3 2023 8:00 PM,4.5,$60
+4,San Francisco Giants vs. Boston Red Sox,MLB clash at Oracle Park,Oracle Park San Francisco,August 20 2023 1:10 PM,4.7,$40
+5,"Hamilton",Don't miss the cultural phenomenon,Richard Rodgers Theatre NYC,July 8 2023 7:00 PM,4.8,$100
+6,Chicago Cubs vs. New York Yankees,MLB action at Wrigley Field,Wrigley Field Chicago,June 15 2023 6:30 PM,4.6,$55
+7,Los Angeles Lakers vs. Golden State Warriors,Exciting NBA matchup,Staples Center Los Angeles,October 28 2023 7:00 PM,4.7,$70
+8,"Wicked",Experience the enchanting tale,Gershwin Theatre NYC,September 17 2023 2:00 PM,4.5,$80
+9,New York Giants vs. New England Patriots,NFL showdown at MetLife Stadium,MetLife Stadium NYC,November 19 2023 1:00 PM,4.4,$65
+10,San Francisco 49ers vs. Chicago Bears,NFL clash at Levi's Stadium,Levi's Stadium San Francisco,October 8 2023 4:25 PM,4.6,$60
+11,Boston Red Sox vs. Chicago White Sox,MLB face-off at Fenway Park,Fenway Park Boston,August 15 2023 7:10 PM,4.5,$45
+12,Los Angeles Dodgers vs. New York Mets,MLB action at Dodger Stadium,Dodger Stadium Los Angeles,June 3 2023 6:00 PM,4.8,$55
+13,"The Lion King",Experience the magic of Disney,Minskoff Theatre NYC,October 5 2023 8:00 PM,4.7,$90
+14,Chicago Blackhawks vs. Boston Bruins,NHL face-off at United Center,United Center Chicago,November 14 2023 7:30 PM,4.6,$70
+15,Golden State Warriors vs. Los Angeles Clippers,NBA rivalry at Chase Center,Chase Center San Francisco,September 22 2023 7:00 PM,4.5,$65
+16,Boston Celtics vs. Chicago Bulls,NBA showdown at TD Garden,TD Garden Boston,October 10 2023 7:30 PM,4.4,$60
+17,"Chicago",Experience the classic musical,Ambassador Theatre NYC,August 25 2023 8:00 PM,4.6,$70
+18,New York Yankees vs. Los Angeles Angels,MLB clash at Yankee Stadium,Yankee Stadium NYC,June 28 2023 7:05 PM,4.5,$50
+19,Los Angeles Rams vs. San Francisco 49ers,NFL rivalry at SoFi Stadium,SoFi Stadium Los Angeles,November 5 2023 4:25 PM,4.7,$75
+20,Chicago White Sox vs. New York Mets,MLB action at Guaranteed Rate Field,Guaranteed Rate Field Chicago,July 12 2023 7:10 PM,4.6,$55
+21,Boston Marathon,Iconic annual marathon race,Various Locations Boston, April 17 2023 9:00 AM,4.8,$100
+22,Los Angeles Lakers vs. New York Knicks,NBA showdown at Staples Center,Staples Center Los Angeles,November 12 2023 7:30 PM,4.6,$70
+23,"The Book of Mormon",Hilarious musical comedy,Eugene O'Neill Theatre NYC,October 3 2023 7:30 PM,4.7,$85
+24,San Francisco Giants vs. Los Angeles Dodgers,MLB rivalry at Oracle Park,Oracle Park San Francisco,June 20 2023 7:15 PM,4.6,$50
+25,Chicago Bears vs. New Orleans Saints,NFL clash at Soldier Field,Soldier Field Chicago,October 29 2023 12:00 PM,4.5,$65
+26,"Dear Evan Hansen",Emotional musical journey,Music Box Theatre NYC,September 8 2023 8:00 PM,4.8,$95
+27,New York Rangers vs. Boston Bruins,NHL face-off at Madison Square Garden,Madison Square Garden NYC,December 1 2023 7:00 PM,4.7,$75
+28,Golden State Warriors vs. Chicago Bulls,NBA rivalry at Chase Center,Chase Center San Francisco,October 14 2023 6:30 PM,4.6,$65
+29,Boston Red Sox vs. New York Yankees,MLB classic at Fenway Park,Fenway Park Boston,July 25 2023 7:10 PM,4.7,$55
+30,Chicago Cubs vs. Los Angeles Dodgers,MLB action at Wrigley Field,Wrigley Field Chicago,June 30 2023 1:20 PM,4.6,$60
+31,"Les Misérables",Epic tale of revolution,Imperial Theatre NYC,November 7 2023 7:00 PM,4.9,$90
+32,Los Angeles Rams vs. New England Patriots,NFL showdown at SoFi Stadium,SoFi Stadium Los Angeles,December 10 2023 8:20 PM,4.8,$80
+33,San Francisco 49ers vs. Seattle Seahawks,NFL clash at Levi's Stadium,Levi's Stadium San Francisco,November 19 2023 1:25 PM,4.6,$70
+34,Boston Celtics vs. Golden State Warriors,NBA showdown at TD Garden,TD Garden Boston,December 2 2023 7:30 PM,4.7,$75
+35,"The Color Purple",Moving musical experience,Bernard B. Jacobs Theatre NYC,October 15 2023 2:00 PM,4.8,$85
+36,New York Giants vs. Chicago Bears,NFL clash at MetLife Stadium,MetLife Stadium NYC,November 26 2023 1:00 PM,4.6,$70
+37,Los Angeles Clippers vs. San Francisco Warriors,NBA matchup at Crypto.com Arena,Crypto.com Arena Los Angeles,December 18 2023 6:00 PM,4.7,$65
+38,Chicago Bulls vs. Boston Celtics,NBA rivalry at United Center,United Center Chicago,December 7 2023 7:00 PM,4.8,$80
+39,"Mamma Mia!",Feel-good musical sensation,Broadhurst Theatre NYC,September 23 2023 8:00 PM,4.7,$75
+40,New York Knicks vs. Los Angeles Lakers,NBA showdown at Madison Square Garden,Madison Square Garden NYC,November 28 2023 7:30 PM,4.6,$70
+41,Chicago Bulls vs. Boston Celtics,NBA rivalry at United Center,United Center Chicago,January 10 2024 7:00 PM,4.7,$75
+42,"The Lion King",Experience the magic of Disney,Minskoff Theatre NYC,February 5 2024 2:00 PM,4.8,$85
+43,Los Angeles Dodgers vs. San Francisco Giants,MLB showdown at Dodger Stadium,Dodger Stadium Los Angeles,May 10 2024 6:30 PM,4.9,$60
+44,Boston Marathon,Iconic annual marathon race,Various Locations Boston,April 15 2024 9:00 AM,4.7,$100
+45,Chicago Bears vs. New York Giants,NFL clash at Soldier Field,Soldier Field Chicago,October 15 2024 12:00 PM,4.6,$65
+46,"Hamilton",Don't miss the cultural phenomenon,Richard Rodgers Theatre NYC,March 20 2024 7:00 PM,4.9,$90
+47,San Francisco Giants vs. Los Angeles Dodgers,MLB rivalry at Oracle Park,Oracle Park San Francisco,June 1 2024 7:15 PM,4.8,$70
+48,New York Rangers vs. Chicago Blackhawks,NHL face-off at Madison Square Garden,Madison Square Garden NYC,December 9 2024 7:00 PM,4.7,$75
+49,Golden State Warriors vs. Los Angeles Lakers,NBA rivalry at Chase Center,Chase Center San Francisco,February 20 2024 6:30 PM,4.6,$80
+50,Boston Red Sox vs. New York Yankees,MLB classic at Fenway Park,Fenway Park Boston,July 10 2024 7:10 PM,4.7,$60
+51,Chicago Cubs vs. Los Angeles Dodgers,MLB action at Wrigley Field,Wrigley Field Chicago,June 15 2024 1:20 PM,4.6,$65
+52,"Wicked",Experience the enchanting tale,Gershwin Theatre NYC,April 5 2024 8:00 PM,4.8,$85
+53,Los Angeles Rams vs. Chicago Bears,NFL showdown at SoFi Stadium,SoFi Stadium Los Angeles,November 4 2024 8:20 PM,4.7,$70
+54,San Francisco 49ers vs. Seattle Seahawks,NFL clash at Levi's Stadium,Levi's Stadium San Francisco,November 10 2024 1:25 PM,4.8,$75
+55,Boston Celtics vs. Golden State Warriors,NBA showdown at TD Garden,TD Garden Boston,February 3 2024 7:30 PM,4.6,$80
+56,"Chicago",Experience the classic musical,Ambassador Theatre NYC,May 15 2024 8:00 PM,4.7,$70
+57,New York Yankees vs. San Francisco Giants,MLB clash at Yankee Stadium,Yankee Stadium NYC,June 21 2024 7:05 PM,4.8,$60
+58,Los Angeles Clippers vs. Boston Celtics,NBA matchup at Crypto.com Arena,Crypto.com Arena Los Angeles,February 10 2024 6:00 PM,4.7,$75
+59,Chicago Bulls vs. Los Angeles Lakers,NBA showdown at United Center,United Center Chicago,March 8 2024 7:00 PM,4.8,$80
+60,"The Phantom of the Opera",Experience the iconic musical,Majestic Theatre NYC,July 12 2024 8:00 PM,4.9,$90
+61,New York Knicks vs. Golden State Warriors,NBA game at Madison Square Garden,Madison Square Garden NYC,February 15 2024 7:30 PM,4.7,$75
+62,Los Angeles Dodgers vs. Boston Red Sox,MLB showdown at Dodger Stadium,Dodger Stadium Los Angeles,May 25 2024 6:30 PM,4.8,$70
+63,Boston Red Sox vs. Chicago White Sox,MLB action at Fenway Park,Fenway Park Boston,July 5 2024 7:10 PM,4.7,$65
+64,Chicago Cubs vs. San Francisco Giants,MLB action at Wrigley Field,Wrigley Field Chicago,April 20 2024 1:20 PM,4.6,$60
+65,"Les Misérables",Epic tale of revolution,Imperial Theatre NYC,May 30 2024 7:00 PM,4.9,$85
+66,Los Angeles Rams vs. New York Giants,NFL clash at SoFi Stadium,SoFi Stadium Los Angeles,December 22 2024 8:20 PM,4.7,$70
+67,San Francisco 49ers vs. Chicago Bears,NFL showdown at Levi's Stadium,Levi's Stadium San Francisco,December 8 2024 1:25 PM,4.8,$75
+68,Boston Celtics vs. Los Angeles Lakers,NBA showdown at TD Garden,TD Garden Boston,January 15 2024 7:30 PM,4.7,$80
+69,"The Book of Mormon",Hilarious musical comedy,Eugene O'Neill Theatre NYC,February 25 2024 7:30 PM,4.8,$85
+70,New York Rangers vs. San Francisco Sharks,NHL face-off at Madison Square Garden,Madison Square Garden NYC,December 14 2024 7:00 PM,4.7,$75
+71,Chicago Bulls vs. Los Angeles Lakers,NBA rivalry at United Center,United Center Chicago,January 5 2025 7:00 PM,4.8,$75
+72,"The Lion King",Experience the magic of Disney,Minskoff Theatre NYC,February 7 2025 2:00 PM,4.8,$85
+73,Los Angeles Dodgers vs. San Francisco Giants,MLB showdown at Dodger Stadium,Dodger Stadium Los Angeles,May 14 2025 6:30 PM,4.9,$60
+74,Boston Marathon,Iconic annual marathon race,Various Locations Boston,April 20 2025 9:00 AM,4.7,$100
+75,Chicago Bears vs. New York Giants,NFL clash at Soldier Field,Soldier Field Chicago,October 12 2025 12:00 PM,4.6,$65
+76,"Hamilton",Don't miss the cultural phenomenon,Richard Rodgers Theatre NYC,March 25 2025 7:00 PM,4.9,$90
+77,San Francisco Giants vs. Los Angeles Dodgers,MLB rivalry at Oracle Park,Oracle Park San Francisco,June 5 2025 7:15 PM,4.8,$70
+78,New York Rangers vs. Chicago Blackhawks,NHL face-off at Madison Square Garden,Madison Square Garden NYC,December 5 2025 7:00 PM,4.7,$75
+79,Golden State Warriors vs. Los Angeles Lakers,NBA rivalry at Chase Center,Chase Center San Francisco,February 15 2025 6:30 PM,4.6,$80
+80,Boston Red Sox vs. New York Yankees,MLB classic at Fenway Park,Fenway Park Boston,July 15 2025 7:10 PM,4.7,$60
+81,Chicago Cubs vs. Los Angeles Dodgers,MLB action at Wrigley Field,Wrigley Field Chicago,June 10 2025 1:20 PM,4.6,$65
+82,"Wicked",Experience the enchanting tale,Gershwin Theatre NYC,April 10 2025 8:00 PM,4.8,$85
+83,Los Angeles Rams vs. Chicago Bears,NFL showdown at SoFi Stadium,SoFi Stadium Los Angeles,November 2 2025 8:20 PM,4.7,$70
+84,San Francisco 49ers vs. Seattle Seahawks,NFL clash at Levi's Stadium,Levi's Stadium San Francisco,November 8 2025 1:25 PM,4.8,$75
+85,Boston Celtics vs. Golden State Warriors,NBA showdown at TD Garden,TD Garden Boston,February 5 2025 7:30 PM,4.7,$80
+86,"Chicago",Experience the classic musical,Ambassador Theatre NYC,May 10 2025 8:00 PM,4.7,$70
+87,New York Yankees vs. San Francisco Giants,MLB clash at Yankee Stadium,Yankee Stadium NYC,June 20 2025 7:05 PM,4.8,$60
+88,Los Angeles Clippers vs. Boston Celtics,NBA matchup at Crypto.com Arena,Crypto.com Arena Los Angeles,February 20 2025 6:00 PM,4.7,$75
+89,Chicago Bulls vs. Los Angeles Lakers,NBA showdown at United Center,United Center Chicago,March 15 2025 7:00 PM,4.8,$80
+90,"The Phantom of the Opera",Experience the iconic musical,Majestic Theatre NYC,July 20 2025 8:00 PM,4.9,$90
+91,New York Knicks vs. Golden State Warriors,NBA game at Madison Square Garden,Madison Square Garden NYC,February 25 2025 7:30 PM,4.7,$75
+92,Los Angeles Dodgers vs. Boston Red Sox,MLB showdown at Dodger Stadium,Dodger Stadium Los Angeles,May 30 2025 6:30 PM,4.8,$70
+93,Boston Red Sox vs. Chicago White Sox,MLB action at Fenway Park,Fenway Park Boston,July 25 2025 7:10 PM,4.7,$65
+94,Chicago Cubs vs. San Francisco Giants,MLB action at Wrigley Field,Wrigley Field Chicago,April 15 2025 1:20 PM,4.6,$60
+95,"Les Misérables",Epic tale of revolution,Imperial Theatre NYC,May 5 2025 7:00 PM,4.9,$85
+96,Los Angeles Rams vs. New York Giants,NFL clash at SoFi Stadium,SoFi Stadium Los Angeles,December 12 2025 8:20 PM,4.7,$70
+97,San Francisco 49ers vs. Chicago Bears,NFL showdown at Levi's Stadium,Levi's Stadium San Francisco,December 5 2025 1:25 PM,4.8,$75
+98,Boston Celtics vs. Los Angeles Lakers,NBA showdown at TD Garden,TD Garden Boston,January 10 2025 7:30 PM,4.7,$80
+99,"The Book of Mormon",Hilarious musical comedy,Eugene O'Neill Theatre NYC,February 28 2025 7:30 PM,4.8,$85
+100,New York Rangers vs. San Francisco Sharks,NHL face-off at Madison Square Garden,Madison Square Garden NYC,December 18 2025 7:00 PM,4.7,$75
