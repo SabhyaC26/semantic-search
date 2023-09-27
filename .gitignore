@@ -1,3 +1,4 @@
 dev/
 datastore/
+.ipynb_checkpoints/*
 .env
